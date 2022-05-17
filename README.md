@@ -2,7 +2,7 @@
 
    ---
    title: "rmarkdown"   
-   author: "Aamir kha " 
+   author: "Aamir khan " 
    date: "17/05/2022" 
    output: pdf_document 
    ---
